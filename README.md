@@ -3,6 +3,21 @@
 In diesem Dokument beschreiben wir, was wir von Euch als TeilnehmerInnen des Teamprojektes erwarten.
 Dieses Dokument ist aus der Sicht der universitären Betreuung (der TutorInnen / BetreuerInnen) geschrieben.
 
+## GitHub Tour
+In diesem Github Repository wird großteils Eurer Arbeit stattfinden.
+
+- In [Issues](../../issues) könnt Ihr entdeckte Fehler (Bugs), User Stories und andere Tickets festhalten, damit ihr nicht vergesst diese zu bearbeiten.
+
+- [Pull Requests](../../pulls) sind spezielle Issues, die dazu verwendet werden, um Code Reviews durchzuführen.
+
+- In [Projects](../../projects) könnt Ihr Euch ein Sprint Board anlegen, um die nächste Iteration zu planen und Euren Fortschritt nachzuvollziehen.
+
+- Das [Wiki](../../wiki)  kann genutzt werden, um zum Beispiel weitere inhaltliche Anforderungen zu erfassen, die Definition-of-Done zu dokumentieren oder Protokolle und Entscheidungen des Teams festzuhalten.
+
+- [Actions](../../actions) erlauben Euch Continuous Integration (CI) und automatisiertes Testen für jeden Pull Request und jedes Release einzurichten.
+
+
+
 ## Selbstorganisation
 
 Das Teamprojekt ist wie ein Planspiel. Ihr seid ein Startup und das ist Euer
