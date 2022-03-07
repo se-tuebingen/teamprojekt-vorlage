@@ -60,7 +60,7 @@ Im Laufe des Projektes können weitere technische Anforderungen hinzukommen. Es 
 - es wird git zur Versionsverwaltung verwendet
 - die gemeinsame Entwicklung und der Austausch von Code findet über GitHub statt
 - Aufgaben, die in den kommenden zwei Wochen erledigt werden sollen, werden als "Issues" auf GitHub festgehalten
-- Aufgaben sind ausreichend dokumentiert , so dass *alle* Beteiligten genau wissen, was sie zu tun hätten
+- Aufgaben sind ausreichend dokumentiert, so dass *alle* Beteiligten genau wissen, was sie zu tun hätten
 - im Rahmen der Planung (s.o.) wird ein Milestone auf GitHub erstellt; entsprechende Aufgaben werden zugeordnet
 
 
@@ -73,7 +73,7 @@ Eine Aufgabe (Issue) ist erst abgeschlossen, wenn
 - dieser von mindestens einer zweiten Person kontrolliert wurde (code review)
 - dieser in `main` / `master` / `dev` (je nach Projekt) gemerged wurde
 
-Abhängig vom Projekt kann das heißen,  im Rahmen des Code Reviews muss eventuell ...
+Abhängig vom Projekt kann das heißen, im Rahmen des Code Reviews muss eventuell ...
 
 - überprüft werden, ob Coding Conventions eingehalten wurden
 - getested werden, ob die Funktionalität wie erwartet implementiert ist und sonst keine Fehler eingeführt wurden
