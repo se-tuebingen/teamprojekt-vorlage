@@ -45,7 +45,7 @@ Die verschiedenen Teams sind verschieden strukturiert (Größe, Anforderungen de
 das solltet Ihr natürlich dabei berücksichtigen.
 
 Fragen, die Ihr Euch stellen könntet:
-- **Rollenverteilung** (PO / SM / Dev / ...). Gibt es einen bestimmten Product Owner oder Scrum Master? Rotiert diese Rolle, ist sie fest, wird sie teilweise von der Betreuung übernommen?
+- **Rollenverteilung** (PO / SM / Dev / ...). Gibt es einen bestimmten Product Owner oder Scrum Master? Rotiert diese Rolle, ist sie fest, wird sie teilweise von der Betreuung übernommen? Unabhängig von der Rollenverteilung ist es notwendig zum Bestehen, dass _jede(r)_ TeilnehmerIn aktiv programmiert.
 - **Arbeitsaufteilung**. Wie organisieren wir genau die Verteilung der Arbeit? Wer arbeitet wann an welchen Aufgaben?
 - **Kommunikation**. Wie kommunizieren wir? Soll es zusätzliche Treffen geben? Wie sind diese Treffen strukturiert?
 
